@@ -1,9 +1,10 @@
-# Mi priner bot de telegram con telebot
+# Mi primer bot de telegram con telebot
 ![Image text](https://github.com/NahomiVilla/TelegramBot/blob/main/imagen.jpg?raw=true)
 ## Tabla de Contenido
 - [Descripción 📜](#descripción-)
 - [Requisitos 📋](#requisitos-)
-- [Librerías 📚](#librerías-)
+- [Configuración](#configuracion-)
+- [Funcionalidades](#funcionalidades-)
 ## Descripción
 Este proyecto se realizó en Python utilizando la biblioteca telebot para hacer la conexión con telegram para la creación de un bot basico 
 
@@ -21,7 +22,7 @@ pip install telebot
 3. crea un bot en telegram a traves de botfather y obten tu token
 4. Ejecuta el bot ussando 'python main.py'
 
-## funcionalidades:
+## Funcionalidades:
 
 - responde a los comandos '/start', '/help', '/conversar' y '/foto'
 - repite cualquier otro mensajes que le envies 
