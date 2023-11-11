@@ -1,5 +1,5 @@
 # Mi priner bot de telegram con telebot
-![Image text]()
+![Image text](https://github.com/NahomiVilla/TelegramBot/blob/main/imagen.jpg?raw=true)
 ## Tabla de Contenido
 - [Descripción 📜](#descripción-)
 - [Requisitos 📋](#requisitos-)
