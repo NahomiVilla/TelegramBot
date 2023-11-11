@@ -1,8 +1,20 @@
 # Mi priner bot de telegram con telebot
+![Image text]()
+## Tabla de Contenido
+- [Descripción 📜](#descripción-)
+- [Requisitos 📋](#requisitos-)
+- [Librerías 📚](#librerías-)
+## Descripción
+Este proyecto se realizó en Python utilizando la biblioteca telebot para hacer la conexión con telegram para la creación de un bot basico 
 
-este repositorio contiene el codigo para rear un bot basico de telegramutilizando la biblioteca telebot de python.
-
-## configuracion
+## Requisitos 
+* Python 3.9
+* Biblioteca necesaria: telebot
+puede instalar la biblioteca utilizando el siguiente comando en la terminal:
+```
+pip install telebot
+```
+## Configuración
 
 1. clona este repositorio
 2. instala las dependencias usando 'pip install -r requiirements.txt'
@@ -11,5 +23,5 @@ este repositorio contiene el codigo para rear un bot basico de telegramutilizand
 
 ## funcionalidades:
 
-- responde a lois comandos '/start' y '/help'
-- reoite cuaquier otro mensaje que le envies.
+- responde a los comandos '/start', '/help', '/conversar' y '/foto'
+- repite cualquier otro mensajes que le envies 
